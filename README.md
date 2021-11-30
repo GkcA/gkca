@@ -27,10 +27,10 @@ I'm Ahmet Gokce, Fullstack Engineer from Istanbul, Turkey.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
-**⚡ Github Stats:**
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gkca&show_icons=true&theme=gotham" alt="gkca" /> </p>
+<!-- **⚡ Github Stats:**
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gkca&show_icons=true&theme=gotham" alt="gkca" /> </p> -->
 
-<p align="center"> 
-  Visitor count<br>
+<p align="left"> 
+  ⚡ Visitor count<br>
   <img src="https://profile-counter.glitch.me/gkca/count.svg" />
 </p>
